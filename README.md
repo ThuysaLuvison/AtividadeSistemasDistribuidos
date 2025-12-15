@@ -1,4 +1,4 @@
 # Sistemas distribuídos 
-Bem vindo(a) ao *Sistemas distribuidos*!!!
+Bem vindo ao *Sistemas distribuidos*!!!
 
 Atividade academica meramente para aprendizagem.
